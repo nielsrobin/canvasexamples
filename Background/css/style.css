@@ -1,0 +1,21 @@
+body
+{
+    background: #bada55;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+
+#site
+{
+    width: 800px;
+    height: 600px;
+    background: white;
+
+    position: absolute;
+    left: 50%;
+    margin-left: -400px;
+    top: 50px;
+
+    display: none; /* remove me to see site */
+}
