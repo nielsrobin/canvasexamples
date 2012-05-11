@@ -1,4 +1,6 @@
-html5canvas
+canvas examples
 ===========
 
-Just some random canvas demos I've made.
+## Background
+
+Will contain a bunch of dynamic canvas backgrounds for websites. Right now it just have 1. Flying sqaures ftw!
